@@ -1,6 +1,6 @@
 {
     "name": "components/modernizr",
-    "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.",
+    "description": "Custom Modernizr build",
     "keywords": [
         "html5",
         "css3",
