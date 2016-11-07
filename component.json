@@ -1,7 +1,7 @@
 {
   "name": "modernizr",
   "repo": "components/modernizr",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "description": "Custom Modernizr build",
   "homepage": "http://modernizr.com/",
   "keywords": [
